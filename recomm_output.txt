@@ -1,0 +1,8 @@
+Because you watched 'Inception', you may like:
+- The Matrix (similarity: 1)
+- The Terminator (similarity: 1)
+- Interstellar (similarity: 1)
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
