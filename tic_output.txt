@@ -1,0 +1,70 @@
+Tic-Tac-Toe: You (X) vs AI (O)
+ | | 
+ | | 
+ | | 
+
+Enter row (0-2): 
+2
+Enter col (0-2): 
+2
+ | | 
+ | | 
+ | |X
+
+AI played:
+ | | 
+ |O| 
+ | |X
+
+Enter row (0-2): 
+2
+Enter col (0-2): 
+1
+ | | 
+ |O| 
+ |X|X
+
+AI played:
+ | | 
+ |O| 
+O|X|X
+
+Enter row (0-2): 
+0
+Enter col (0-2): 
+2
+ | |X
+ |O| 
+O|X|X
+
+AI played:
+ | |X
+ |O|O
+O|X|X
+
+Enter row (0-2): 
+1
+Enter col (0-2): 
+0
+ | |X
+X|O|O
+O|X|X
+
+AI played:
+O| |X
+X|O|O
+O|X|X
+
+Enter row (0-2): 
+0
+Enter col (0-2): 
+1
+O|X|X
+X|O|O
+O|X|X
+
+It's a tie!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
